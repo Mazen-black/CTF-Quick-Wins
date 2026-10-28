@@ -1,2 +1,7 @@
 # CTF-Quick-Wins
+
 Short-form CTF writeups — TryHackMe boxes and exploitation technique summaries.
+
+## Write-ups
+
+- [TryHackMe — ValenFind](writeups/tryhackme-valenfind.md) — Path traversal, arbitrary file read, source-code review, exposed admin token, and SQLite database export.
